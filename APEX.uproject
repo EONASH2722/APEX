@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "APEX open-world realistic street racing",
+  "Modules": [{ "Name": "Apex", "Type": "Runtime", "LoadingPhase": "Default" }],
+  "Plugins": [
+    { "Name": "ChaosVehiclesPlugin", "Enabled": true },
+    { "Name": "EnhancedInput", "Enabled": true },
+    { "Name": "Metasound", "Enabled": true },
+    { "Name": "ModelingToolsEditorMode", "Enabled": true, "TargetAllowList": ["Editor"] }
+  ]
+}

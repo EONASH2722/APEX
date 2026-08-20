@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "vehicle_id": "replace_with_stable_id",
+  "model_year": null,
+  "trim": null,
+  "mass": {"value": null, "unit": "kg", "source_url": null, "source_name": null, "confidence": "unknown", "notes": null},
+  "dimensions": {
+    "length": {"value": null, "unit": "mm", "source_url": null, "source_name": null, "confidence": "unknown", "notes": null},
+    "width": {"value": null, "unit": "mm", "source_url": null, "source_name": null, "confidence": "unknown", "notes": null},
+    "height": {"value": null, "unit": "mm", "source_url": null, "source_name": null, "confidence": "unknown", "notes": null},
+    "wheelbase": {"value": null, "unit": "mm", "source_url": null, "source_name": null, "confidence": "unknown", "notes": null}
+  },
+  "engine": {"idle_rpm": null, "redline_rpm": null, "torque_curve_nm": []},
+  "transmission": {"type": null, "drivetrain": null, "gear_ratios": [], "final_drive": null, "efficiency": null},
+  "aerodynamics": {"drag_coefficient": null, "frontal_area_m2": null, "lift_coefficient": null},
+  "validation_targets": {"zero_to_100_s": null, "zero_to_200_s": null, "quarter_mile_s": null, "top_speed_kmh": null, "braking_100_to_0_m": null}
+}
